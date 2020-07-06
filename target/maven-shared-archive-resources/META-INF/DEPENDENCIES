@@ -1,0 +1,23 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+LoadBalancer
+
+
+From: 'an unknown organization'
+  - IntelliJ IDEA Annotations (http://www.jetbrains.org) org.jetbrains:annotations:jar:13.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.jetbrains.kotlin:kotlin-stdlib (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib:jar:1.3.72
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.jetbrains.kotlin:kotlin-stdlib-common (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.3.72
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk7 (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib-jdk7:jar:1.3.72
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8 (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.3.72
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
