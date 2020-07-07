@@ -27,8 +27,8 @@ e.g. sending all HTTP requests from a particular user to the same webserver back
 
 #### Qucikstart Video Demo
 
-Part 1: https://youtu.be/L7Wpq7nK83M
-Part 2: https://youtu.be/YlwbnB4pvkk
+- Part 1: https://youtu.be/L7Wpq7nK83M
+- Part 2: https://youtu.be/YlwbnB4pvkk
 
 
 #### Advanced
