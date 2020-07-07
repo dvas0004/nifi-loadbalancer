@@ -30,6 +30,10 @@ e.g. sending all HTTP requests from a particular user to the same webserver back
 - Part 1: https://youtu.be/L7Wpq7nK83M
 - Part 2: https://youtu.be/YlwbnB4pvkk
 
+#### Installation
+
+- Download the NAR file https://github.com/dvas0004/nifi-loadbalancer/blob/master/nifi-LoadBalancer-nar/target/nifi-LoadBalancer-nar-1.0-SNAPSHOT.nar
+- Move the NAR file to the "lib" directory of your NiFi installation
 
 #### Advanced
 
